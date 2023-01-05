@@ -1,3 +1,4 @@
 Adicionando arquivo main.txt
 Nova linha
 Nova linha no arquivo main.txt
+nova linha local fetch
